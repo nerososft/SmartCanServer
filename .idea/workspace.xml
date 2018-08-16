@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f422525-5b1b-45e6-b528-3e31c386aa50" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/pushPlugin/target/" />
@@ -25,11 +26,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="SmartFaultPush.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SmartFaultPush.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/serverCore/src/main/java/com/iot/nero/smartcan/plugin/impl/SmartFaultPush.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="924">
               <caret line="72" column="68" lean-forward="true" selection-start-line="72" selection-start-column="68" selection-end-line="72" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="94" column="35" lean-forward="true" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -127,15 +137,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/serverCore/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -187,6 +188,7 @@
         <option value="$PROJECT_DIR$/serverCore/src/main/java/com/iot/nero/smartcan/utils/cache/CacheManager.java" />
         <option value="$PROJECT_DIR$/serverCore/src/main/java/com/iot/nero/smartcan/service/impl/ProtocolService.java" />
         <option value="$PROJECT_DIR$/serverCore/src/main/java/com/iot/nero/smartcan/plugin/impl/SmartFaultPush.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -663,15 +665,16 @@
       <workItem from="1532858465712" duration="17940000" />
       <workItem from="1533630081143" duration="4022000" />
       <workItem from="1534303217157" duration="3020000" />
-      <workItem from="1534312049882" duration="10203000" />
+      <workItem from="1534312049882" duration="10372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38893000" />
+    <option name="totallyTimeSpent" value="39062000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Tool Output" order="7" />
@@ -695,9 +698,9 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.53067815" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33050847" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33050847" />
       <window_info anchor="right" id="Jenkins" order="4" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23315509" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23315509" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -726,9 +729,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/license/license.lic">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pushPlugin/src/main/java/com/iot/nero/smartcan/plugin/utils/SqlSessionFactoryUtil.java" />
     <entry file="file://$PROJECT_DIR$/pushPlugin/src/main/java/com/iot/nero/smartcan/plugin/impl/SmartFaultListener.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1058,6 +1058,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="924">
           <caret line="72" column="68" lean-forward="true" selection-start-line="72" selection-start-column="68" selection-end-line="72" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="94" column="35" lean-forward="true" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
         </state>
       </provider>
     </entry>

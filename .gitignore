@@ -92,3 +92,4 @@ testPlugin/target/test-classes/
 .idea/dataSources/1a23a452-0e20-4076-8480-d903d213dbcb/_staging_/
 pushPlugin/target/generated-sources/
 pushPlugin/target/generated-test-sources/
+将删除 .idea/sonarlint/issuestore/b/a/
