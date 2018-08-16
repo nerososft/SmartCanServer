@@ -1,0 +1,14 @@
+
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡šòÚ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀŸ…°øÿÿÿÿ
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Œğ–«ÿÿÿÿÿ
+hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ˆûå¹
+hsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ°İˆ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Í¡Ö
+]squid:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ
+esquid:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ª©©
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Îæàÿÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÙŞ†
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øãåİÿÿÿÿÿ

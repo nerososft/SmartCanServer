@@ -1,0 +1,15 @@
+
+Dsquid:S1148"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8†¶«ğÒ,
+`squid:S2147"DCombine this catch with the one at line 87, which has the same body.(ŸäÁ‚8†¶«ğÒ,
+¾%squid:RedundantThrowsDeclarationCheck"‚Remove the declaration of thrown exception 'com.iot.nero.smartcan.exceptions.PackageBrokenException' which is a runtime exception.(”İæıÿÿÿÿ8¯Óã³Ê,
+Dsquid:S1148"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8†¶«ğÒ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¯Óã³Ê,
+@squid:S1659"%Declare "SENDING" on a separate line.(Ã’.8¯Óã³Ê,
+Dsquid:S1148"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8†¶«ğÒ,
+¹%squid:RedundantThrowsDeclarationCheck"‚Remove the declaration of thrown exception 'com.iot.nero.smartcan.exceptions.PackageBrokenException' which is a runtime exception.(şë‚Ğ8¯Óã³Ê,
+¹%squid:RedundantThrowsDeclarationCheck"‚Remove the declaration of thrown exception 'com.iot.nero.smartcan.exceptions.PackageBrokenException' which is a runtime exception.(øèüö8¯Óã³Ê,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¯Óã³Ê,
+Dsquid:S1148"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8†¶«ğÒ,
+esquid:S2147"DCombine this catch with the one at line 87, which has the same body.(ğ³Ëûÿÿÿÿ8†¶«ğÒ,
+`squid:S2147"DCombine this catch with the one at line 98, which has the same body.(çÃÜµ8¯Óã³Ê,
+`squid:S2147"DCombine this catch with the one at line 87, which has the same body.(ı£õÕ8†¶«ğÒ,

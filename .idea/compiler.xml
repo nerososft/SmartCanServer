@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="middleware.dfs.index" />
+        <module name="pushPlugin" />
+        <module name="serverCore" />
+        <module name="testPlugin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="middleware.dfs.index" target="1.7" />
+      <module name="pushPlugin" target="1.7" />
+      <module name="serverCore" target="8" />
+      <module name="smartCanServer" target="1.5" />
+      <module name="testPlugin" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
